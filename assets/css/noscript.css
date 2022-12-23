@@ -1,7 +1,7 @@
 /* Header */
 
 	body.is-preload #header.alt > * {
-		opacity: 0.5;
+		opacity: 1;
 	}
 
 	body.is-preload #header.alt .logo {
